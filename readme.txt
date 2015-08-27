@@ -7,3 +7,4 @@ Git tracks changes.
 my boss still prefers SVN.
 my boss is stupid.
 create dev branch.
+Creating a new branch is quick AND simple.
